@@ -1,3 +1,4 @@
+// frutas.js
 const frutas = [
     "Manzana",
     "Banana",
@@ -10,3 +11,6 @@ const frutas = [
     "Piña",
     "Cereza"
 ];
+
+// Exportar la lista de frutas
+export default frutas;
